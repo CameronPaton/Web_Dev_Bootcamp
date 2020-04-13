@@ -27,6 +27,10 @@ I began this course in March 2020. My current progress is:
 
 :computer: [Colour Game Project](url)
 
+#### Course Notes
+
+My course notes can be found [here](url).
+
 #### Course Certification
 
 :scroll: View Certificate (When this course is completed the certification will be available to view here)
