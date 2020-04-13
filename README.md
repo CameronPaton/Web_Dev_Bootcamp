@@ -33,9 +33,4 @@ I began this course in March 2020. My current progress is:
 
 
 
-- [ ] Task 1
-- [x] Task 2
-
-
-
 
