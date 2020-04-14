@@ -25,7 +25,7 @@ I began this course in March 2020. My current progress is:
 
 #### Projects
 
-:computer: [Colour Game Project](url)
+:computer: [Colour Game Project](https://github.com/CameronPaton/Web_Dev_Bootcamp/tree/master/Colour%20Game)
 
 #### Course Notes
 
