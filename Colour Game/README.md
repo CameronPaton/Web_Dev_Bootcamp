@@ -10,5 +10,7 @@
 
 ##### Functionality
 
+To view the functionality of the game please click [here](https://z2np3.codesandbox.io/)
+
 
 ##### Preview
