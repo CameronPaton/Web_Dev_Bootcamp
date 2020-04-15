@@ -39,4 +39,4 @@ To view the functionality of the game please click [here](https://z2np3.codesand
 
 Please see below for a preview of how the project looks:
 
-![Preview]:(https://github.com/CameronPaton/Images-Portfolio/blob/master/Colour_Game_Project.png)
+![Preview](https://github.com/CameronPaton/Images-Portfolio/blob/master/Colour_Game_Project.png?raw=true)
