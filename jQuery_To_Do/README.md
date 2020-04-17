@@ -44,10 +44,18 @@ The To Do List is within a container div with a header that has a + taken from F
   
 The user can also click on the li itself which toggles a css class, greying out the to do and adding a line-through. The span has an animation where if the user hovers over the span it adds a width of 40px, but when the span isn't hovered over that width is reduced to 0px, and this also includes a transition effect of 0.2s. 
 
+I made some minor changes along the way, such as the background gradient and using different To Do items and a different h1. 
+
 ---
 
 ##### Preview
 
 ![preview](https://github.com/CameronPaton/Images-Portfolio/blob/master/to_do_list_app.png?raw=true)
 
+---
 
+##### Live Application
+
+Please click the link icon below to view the live application:
+
+[:link: To Do Application](https://codepen.io/CyberTiger008/full/zYvqaoq)
