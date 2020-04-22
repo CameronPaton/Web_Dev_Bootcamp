@@ -41,6 +41,6 @@ Please see below for a preview of how the project looks:
 
 ---
 
-#### The Game
+##### The Game
 
 To view the functionality of the game please click [here](https://z2np3.codesandbox.io/)
