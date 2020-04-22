@@ -35,6 +35,8 @@ I began this course in March 2020. My current progress is:
 
 [:computer: To Do List App](https://github.com/CameronPaton/Web_Dev_Bootcamp/tree/master/jQuery_To_Do)
 
+[:computer: Movie API App](https://github.com/CameronPaton/Web_Dev_Bootcamp/tree/master/movie_search_app)
+
 ---
 
 #### Course Notes
