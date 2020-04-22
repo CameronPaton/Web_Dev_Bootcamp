@@ -1,5 +1,7 @@
 <h1> Results Page - EJS file </h1>
 
 <% data["Search"].forEach(function(movie){ %>
-    <li> <%= movie["Title"] %> </li>
+    <li> <%= movie["Title"] %> - <%= movie.Year %> </li>
 <% }) %>
+
+<button><a href="/search">Back to search</a></button>
