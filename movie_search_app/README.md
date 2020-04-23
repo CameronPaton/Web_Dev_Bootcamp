@@ -37,6 +37,23 @@ The application has two routes which is the /search route and the /results route
 
 The route /search, is just a get request which renders to the user the search EJS template. /search.ejs is the homepage. The search.ejs file contains a form with an input box. The form tag has an action attribute and a method attribute. The action is to use the /results route and the method is a GET request. The results route is where the API will be used to receive the users search term and request from the external website. The rest of the form is standard, except the name attribute is used within the input tag with a "search" value which will take the value entered by the user. 
 
+```JavaScript
+
+app.get("/results", function(req, res){
+    const query = req.query.search;
+    const apiKey = "&apikey=thewdb";
+    const url = "http://omdbapi.com/?s=" + query + apiKey;
+
+    request(url, function(error, response, body){
+        if(!error && response.statusCode == 200){
+            const data = JSON.parse(body);
+            res.render("results", {data: data});
+        };
+    })
+});
+
+```
+
 The value is then passed to the /results route, which gets the value entered by the user with req.query.search which is stored in a variable called query. Since the API is now private an apiKey is now needed to access the data so I stored the key in a variable. The URL string for the API which is concatenated with the query variable and the apiKey variable is stored in a variable called url. This will combine the URL for the API, the value the user enters into the form and the apiKey. 
 
 The request module is now used in the route so the url variable is passed in to request the relevant data and a callback function with object parameters of error to identify if there has been an error, check the response code, and do something with the body. 
