@@ -24,4 +24,3 @@ app.listen(3000, function(){
     console.log("the server has started!!");
 });
 
-//&apikey=thewdb
