@@ -25,7 +25,7 @@ The early exercises and projects were useful for getting used to the technologie
 
 I began this course in March 2020. My current progress is:
 
-201 of 402 Complete: Section 16 of 41 (Advanced DOM Manipulation).
+295 of 402 Complete: Section 28 of 41 (Yelpcamp Basics).
 
 ---
 
@@ -36,6 +36,8 @@ I began this course in March 2020. My current progress is:
 [:computer: To Do List App](https://github.com/CameronPaton/Web_Dev_Bootcamp/tree/master/jQuery_To_Do)
 
 [:computer: Movie API App](https://github.com/CameronPaton/Web_Dev_Bootcamp/tree/master/movie_search_app)
+
+[:computer: Yelpcamp Full Stack Project]()
 
 ---
 
