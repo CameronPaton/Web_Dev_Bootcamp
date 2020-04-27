@@ -1,11 +1,36 @@
 var express = require("express");
 var app = express();
 var bodyParser = require("body-parser");
+var mongoose = require("mongoose");
 app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({extended: true}));
 
+mongoose.connect("mongodb://localhost/yelp_camp");
 app.get("/", function(req, res){
     res.render("landing");
+});
+
+//schema setup
+
+var campgroundSchema = new mongoose.Schema({
+    name: String,
+    image: String
+});
+
+var Campground = mongoose.model("Campground", campgroundSchema);
+
+Campground.create(
+    {
+        name: "Granite Hill", 
+        image: "https://images.unsplash.com/photo-1532339142463-fd0a8979791a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    }, 
+    function(err, campground){
+    if(err){
+        console.log(err);
+    } else {
+        console.log("Newly created Campground!");
+        console.log("Campground");
+    }
 });
 
 var campgrounds = [
