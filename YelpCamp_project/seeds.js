@@ -6,17 +6,17 @@ var data = [
     {
         name: "Salmon Creek", 
         image: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-        description: "This is Salmon Creek"
+        description: "Lorem ipsum dolor sit amet, eam ut legere salutatus quaerendum, est inani novum definitionem an, vis ne vide vocent probatus. Est duis maiorum et, verear epicurei referrentur est ea. Ea probo audire salutatus vix, paulo impedit senserit nec in, cu eos sumo mutat reformidans. Laudem putent pri id"
     },
     {
         name: "Granite Hill", 
         image: "https://images.unsplash.com/photo-1532339142463-fd0a8979791a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
-        description: "This is Granite Hill"
+        description: "Lorem ipsum dolor sit amet, eam ut legere salutatus quaerendum, est inani novum definitionem an, vis ne vide vocent probatus. Est duis maiorum et, verear epicurei referrentur est ea. Ea probo audire salutatus vix, paulo impedit senserit nec in, cu eos sumo mutat reformidans. Laudem putent pri id"
     },
     {
         name: "Mountain Goats Rest", 
         image: "https://images.unsplash.com/photo-1504851149312-7a075b496cc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=698&q=80",
-        description: "This is Mountain goats Rest"
+        description: "Lorem ipsum dolor sit amet, eam ut legere salutatus quaerendum, est inani novum definitionem an, vis ne vide vocent probatus. Est duis maiorum et, verear epicurei referrentur est ea. Ea probo audire salutatus vix, paulo impedit senserit nec in, cu eos sumo mutat reformidans. Laudem putent pri id"
     }
 ]
 
