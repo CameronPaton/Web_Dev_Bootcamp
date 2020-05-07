@@ -28,6 +28,7 @@ router.post("/", middleware.isLoggedIn, function(req, res){
     };
     var newCampground = {
         name: name, 
+        price: price,
         image: image,
         description: desc,
         author: author
