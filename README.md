@@ -37,7 +37,7 @@ I began this course in March 2020. My current progress is:
 
 [:computer: Movie API App](https://github.com/CameronPaton/Web_Dev_Bootcamp/tree/master/movie_search_app)
 
-[:computer: Yelpcamp Full Stack Project]()
+[:computer: Yelpcamp Full Stack Project](https://github.com/CameronPaton/Web_Dev_Bootcamp/tree/master/YelpCamp_project)
 
 ---
 
