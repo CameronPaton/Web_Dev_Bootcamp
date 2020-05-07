@@ -4,7 +4,7 @@
 
 ---
 
-The [Udemy Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/), by Colt Steele, consists of 402 lectures organised into 42 sections. The course is full-stack so covers both the Frontend technologies and Backend technologies. 
+The [Udemy Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/), by Colt Steele, consists of 403 lectures organised into 42 sections. The course is full-stack so covers both the Frontend technologies and Backend technologies. 
 
 There are exercises on each topic area and also projects. The main content of the course is based on:
 * HTML
@@ -25,7 +25,7 @@ The early exercises and projects were useful for getting used to the technologie
 
 I began this course in March 2020. My current progress is:
 
-295 of 402 Complete: Section 28 of 41 (Yelpcamp Basics).
+403 of 403 Complete
 
 ---
 
@@ -49,7 +49,7 @@ My course notes can be found [here](url).
 
 #### Course Certification
 
-:scroll: View Certificate (When this course is completed the certification will be available to view here)
+[:scroll: View Certificate](https://github.com/CameronPaton/Images-Portfolio/blob/master/Udemy_Web_Dev_Bootcamp.jpg?raw=true)
 
 
 
