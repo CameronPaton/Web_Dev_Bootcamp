@@ -8,7 +8,7 @@
 
 The Yelpcamp project is from the second half of the Udemy Web Developer Bootcamp course, by Colt Steele. The purpose of the project is to introduce Back End concepts and apply the concepts to a project. This project is a full stack project which uses Express, Node and MongoDB. 
 
-The site is of Campgrounds where users are able to add a Campground to promote it, add a price, image and description of the campground and it is then added to the database which stores the data. So instead of using an array to store data that is lost when the page refreshes, this project introduces data persistence where the data is persistent. 
+The site is of Campgrounds where users are able to add a Campground to promote it, add a price, image and description of the campground and it is then added to the database which stores the data. So instead of using an array to store data that is lost when the page refreshes, this project introduces data persistence. 
 
 Visitors can see all the campgrounds added to the database, but they cannot interact with the site unless they register their details. 
 
@@ -59,3 +59,5 @@ Authentication of the user is handled using PassportJS and authorisations are ha
 Please click the link icon below to view the live application:
 
 [:link: Yelpcamp Application]()
+
+
